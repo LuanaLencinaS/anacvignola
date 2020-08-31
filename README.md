@@ -1,4 +1,4 @@
-### Hi there, I'm Ana Claudia Vignola 👋
+### Hi there, I'm Ana 👋
 
 ```Just another Front-end Developer```
 
